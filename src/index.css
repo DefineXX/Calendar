@@ -8,7 +8,7 @@ html {
 
 body {
   margin: 0;
-  padding: 12rem;
+  padding: 6rem 20rem;
   background: #181818;
 }
 
@@ -25,4 +25,13 @@ li {
 button {
   border: none;
   cursor: pointer;
+}
+
+.title {
+  font-family: eds-market-bold, sans-serif;
+  font-size: 6.4rem;
+  font-weight: 400;
+  font-style: normal;
+  color: #f0f0f0;
+  text-align: center;
 }

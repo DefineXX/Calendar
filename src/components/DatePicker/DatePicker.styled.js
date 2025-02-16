@@ -10,7 +10,7 @@ export const DatePickContainer = styled.div`
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  gap: 1.2rem;
+  gap: 1.6rem;
 `;
 
 export const DatePickerArrowBox = styled.div`
@@ -38,6 +38,7 @@ export const MonthPickerContainer = styled.div`
 
 const DatePickButtonStyles = css`
   width: fit-content;
+  min-width: 9.6rem;
   height: fit-content;
   padding: 0.4rem 1.2rem;
 

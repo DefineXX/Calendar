@@ -47,6 +47,7 @@ const MovieCalendarPage = () => {
 
   return (
     <>
+      <h1 className="title">Movie Calendar</h1>
       <DatePicker
         year={selectedYear}
         month={selectedMonth}
